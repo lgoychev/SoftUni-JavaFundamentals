@@ -12,6 +12,7 @@ public class AssignVariables {
         double doubleType = 0.1234567891011;
         String stringType = "Palo Alto, CA";
         short notShortType = 32768; // Try to assign 32768 - max value of short is 32767!!!
+        double doubleType2 = 0.1234;
     }
 
 }
