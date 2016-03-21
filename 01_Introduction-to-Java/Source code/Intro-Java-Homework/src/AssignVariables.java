@@ -12,11 +12,16 @@ public class AssignVariables {
         double doubleType = 0.1234567891011;
         String stringType = "Palo Alto, CA";
 <<<<<<< HEAD
+<<<<<<< HEAD
         //short notShortType = 32768; // Try to assign 32768 - max value of short is 32767!!!
 <<<<<<< HEAD
 =======
         double doubleType2 = 0.1234;
 >>>>>>> origin/master
+=======
+        short notShortType = 32768; // Try to assign 32768 - max value of short is 32767!!!
+        double doubleType2 = 0.1234;
+>>>>>>> parent of f45e98a... Homework: Introduction to Java
 =======
         short notShortType = 32768; // Try to assign 32768 - max value of short is 32767!!!
         double doubleType2 = 0.1234;
